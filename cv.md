@@ -30,8 +30,8 @@
      French: Intermediate</br>
      Russian: Native
  ## ABOUT ME
-     Motivated young professional.
-     I decided to change my field of activity, as I get great pleasure from participating
-     in large projects and developments in the IT field. I want to develop and study in 
-     the IT field. I have the following qualities: self-learning, multitasking, personal 
-     responsibility, and project management.
+   Motivated young professional.
+   I decided to change my field of activity, as I get great pleasure from participating
+   in large projects and developments in the IT field. I want to develop and study in 
+   the IT field. I have the following qualities: self-learning, multitasking, personal 
+   responsibility, and project management.
