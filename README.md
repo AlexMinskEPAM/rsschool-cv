@@ -1,1 +1,1 @@
-# https://AlexMinskEPAM.github.io/rsschool-cv/cv
+# https://AlexMinskEPAM.github.io/rsschool-cv/
