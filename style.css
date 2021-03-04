@@ -1,0 +1,13 @@
+body {
+    width:1024px;
+    margin: 0 auto;
+    background-color:bisque;
+       }
+main{
+    background-color: white;
+   padding:5px;
+}
+.image{
+    width:130px;
+    height:90px;
+}
